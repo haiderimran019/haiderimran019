@@ -30,10 +30,6 @@ The project includes statistical analysis, visualizations, a reproducible Jupyte
 
 [View the interactive dashboard](https://haiderimran019.github.io/student-performance-analysis/student_performance_dashboard.html)
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haiderimran019&show_icons=true&theme=dark&hide_border=true)
-
 ## Contact
 
 - Email: [thehaiderimran19@gmail.com](mailto:thehaiderimran19@gmail.com)
