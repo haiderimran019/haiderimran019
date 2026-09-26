@@ -1,6 +1,6 @@
 # Haider Imran
 
-### Data Analyst & Developer
+### Aspiring Data Scientist & Developer
 
 Islamabad, Pakistan
 
