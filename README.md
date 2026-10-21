@@ -15,10 +15,11 @@ I study **Data Science at Air University** and work as a **Front-End AI Engineer
 - 🛠️ **Freelance web & app development**: I handle the business side at [Havlen](https://havlen-studio.vercel.app/)
 - 🧠 **Interpretability**: taking GPT-2 apart to see which attention heads do the work
 - 🏆 **Hackathons** at NUST and FAST
+- ⚽ **NaSCon '26 app dev competition**: built [Nascon Ijtemai Kaavish](https://github.com/hafeee44-lab/Nascon-ijtemai-kaavish) with a team of three. I worked on the mobile UI/UX and wrote a Selenium Grid, Appium and k6 test harness
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cell-3-dark.svg">
-  <img src="assets/cell-3-light.svg" width="100%" alt="In [3]: projects.head(5)">
+  <img src="assets/cell-3-light.svg" width="100%" alt="In [3]: projects.head(6)">
 </picture>
 
 <p align="center">
@@ -42,9 +43,13 @@ I study **Data Science at Air University** and work as a **Front-End AI Engineer
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-havlen-dark.svg">
     <img src="assets/card-havlen-light.svg" width="49%" alt="Havlen Studio: the site for my software studio, with dark mode, full technical SEO, a working contact form and analytics.">
   </picture></a>
+  <a href="https://github.com/hafeee44-lab/Nascon-ijtemai-kaavish"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-nascon-dark.svg">
+    <img src="assets/card-nascon-light.svg" width="49%" alt="Nascon Ijtemai Kaavish: a multi-sport league and club platform built with a team of three for the NaSCon '26 app development competition, with live scoring, standings, rosters, a club store and an offline-first mobile app.">
+  </picture></a>
 </p>
 
-<p align="center"><sub>Try them: <a href="https://havlen-studio.vercel.app/">Havlen Studio</a> · <a href="https://haiderimran019.github.io/Riyadh-as-Saliheen/">Riyad as-Salihin</a> · <a href="https://haiderimran019.github.io/Sales-Data-Dashboard/">Sales Dashboard</a> · <a href="https://haiderimran019.github.io/Solvane/">Solvane</a> · <a href="https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf">GPT-2 paper (PDF)</a></sub></p>
+<p align="center"><sub>Try them: <a href="https://havlen-studio.vercel.app/">Havlen Studio</a> · <a href="https://haiderimran019.github.io/Riyadh-as-Saliheen/">Riyad as-Salihin</a> · <a href="https://haiderimran019.github.io/Sales-Data-Dashboard/">Sales Dashboard</a> · <a href="https://haiderimran019.github.io/Solvane/">Solvane</a> · <a href="https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf">GPT-2 paper (PDF)</a> · <a href="https://github.com/hafeee44-lab/Nascon-ijtemai-kaavish">Nascon Ijtemai Kaavish</a></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cell-4-dark.svg">
