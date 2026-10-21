@@ -51,6 +51,16 @@ I study **Data Science at Air University** and work as a **Front-End AI Engineer
 
 <p align="center"><sub>Try them: <a href="https://havlen-studio.vercel.app/">Havlen Studio</a> · <a href="https://haiderimran019.github.io/Riyadh-as-Saliheen/">Riyad as-Salihin</a> · <a href="https://haiderimran019.github.io/Sales-Data-Dashboard/">Sales Dashboard</a> · <a href="https://haiderimran019.github.io/Solvane/">Solvane</a> · <a href="https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf">GPT-2 paper (PDF)</a> · <a href="https://github.com/hafeee44-lab/Nascon-ijtemai-kaavish">Sports Management App</a></sub></p>
 
+<!-- Hisaab freelancer finance -->
+<p align="center">
+  <a href="https://github.com/haiderimran019/Hisaab"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-hisaab-dark.svg">
+    <img src="assets/card-hisaab-light.svg" width="100%" alt="Hisaab: encrypted local finance for Pakistani freelancers. Invoices, actual PKR settlement, expenses and source-linked FBR estimates. Local-first MVP; accountant review required.">
+  </picture></a>
+</p>
+
+**[Hisaab](https://github.com/haiderimran019/Hisaab)** — A local-first finance tool for Pakistani freelancers, with invoices, multi-currency receipts, actual FX and fee reconciliation, expense evidence, and source-linked FBR tax estimates for TY2026/2027. Uses TypeScript, Decimal.js, Zod and WebCrypto. Encrypted backups, eligibility checks and 27 passing tests; provincial and specialist tax cases require review. No bank integration or IRIS submission.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cell-4-dark.svg">
   <img src="assets/cell-4-light.svg" width="100%" alt="In [4]: stack.describe()">
