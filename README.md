@@ -70,6 +70,7 @@ I study **Data Science at Air University** and work as a **Front-End AI Engineer
   Have a website or app you need built? I'd like to hear about it.
   <br><br>
   <a href="mailto:thehaiderimran19@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/haider-imran-558010423/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://havlen-seven.vercel.app/"><b>Havlen</b></a>
 </p>
 
