@@ -59,7 +59,7 @@ I study **Data Science at Air University** and work as a **Front-End AI Engineer
   </picture></a>
 </p>
 
-**[Hisaab](https://github.com/haiderimran019/Hisaab)** — A local-first finance tool for Pakistani freelancers, with invoices, multi-currency receipts, actual FX and fee reconciliation, expense evidence, and source-linked FBR tax estimates for TY2026/2027. Uses TypeScript, Decimal.js, Zod and WebCrypto. Encrypted backups, eligibility checks and 27 passing tests; provincial and specialist tax cases require review. No bank integration or IRIS submission.
+**[Hisaab](https://github.com/haiderimran019/Hisaab)** · **[Open public app](https://haiderimran019.github.io/Hisaab/)** — A local-first finance tool for Pakistani freelancers, with invoices, multi-currency receipts, actual FX and fee reconciliation, expense evidence, and source-linked FBR tax estimates for TY2026/2027. Uses TypeScript, Decimal.js, Zod and WebCrypto. Encrypted backups, eligibility checks and 27 passing tests; provincial and specialist tax cases require review. No bank integration or IRIS submission.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cell-4-dark.svg">
