@@ -12,13 +12,13 @@ I study **Data Science at Air University** and work as a **Front-End AI Engineer
 
 - 🎓 **BS Data Science**, Air University, class of 2030
 - 💼 **Front-End AI Engineering Intern**, FlyRank AI (remote)
-- 🛠️ **Freelance web & app development**: I handle the business side at [Havlen](https://havlen-seven.vercel.app/)
+- 🛠️ **Freelance web & app development**: I handle the business side at [Havlen](https://havlen-studio.vercel.app/)
 - 🧠 **Interpretability**: taking GPT-2 apart to see which attention heads do the work
 - 🏆 **Hackathons** at NUST and FAST
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cell-3-dark.svg">
-  <img src="assets/cell-3-light.svg" width="100%" alt="In [3]: projects.head(4)">
+  <img src="assets/cell-3-light.svg" width="100%" alt="In [3]: projects.head(5)">
 </picture>
 
 <p align="center">
@@ -38,9 +38,13 @@ I study **Data Science at Air University** and work as a **Front-End AI Engineer
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-sales-dark.svg">
     <img src="assets/card-sales-light.svg" width="49%" alt="Sales Dashboard: end-to-end retail analytics with pandas and React.">
   </picture></a>
+  <a href="https://havlen-studio.vercel.app/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-havlen-dark.svg">
+    <img src="assets/card-havlen-light.svg" width="49%" alt="Havlen Studio: the site for my software studio, with dark mode, full technical SEO, a working contact form and analytics.">
+  </picture></a>
 </p>
 
-<p align="center"><sub>Try them: <a href="https://haiderimran019.github.io/Riyadh-as-Saliheen/">Riyad as-Salihin</a> · <a href="https://haiderimran019.github.io/Sales-Data-Dashboard/">Sales Dashboard</a> · <a href="https://haiderimran019.github.io/Solvane/">Solvane</a> · <a href="https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf">GPT-2 paper (PDF)</a></sub></p>
+<p align="center"><sub>Try them: <a href="https://havlen-studio.vercel.app/">Havlen Studio</a> · <a href="https://haiderimran019.github.io/Riyadh-as-Saliheen/">Riyad as-Salihin</a> · <a href="https://haiderimran019.github.io/Sales-Data-Dashboard/">Sales Dashboard</a> · <a href="https://haiderimran019.github.io/Solvane/">Solvane</a> · <a href="https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf">GPT-2 paper (PDF)</a></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cell-4-dark.svg">
@@ -71,7 +75,7 @@ I study **Data Science at Air University** and work as a **Front-End AI Engineer
   <br><br>
   <a href="mailto:thehaiderimran19@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/haider-imran-558010423/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://havlen-seven.vercel.app/"><b>Havlen</b></a>
+  <a href="https://havlen-studio.vercel.app/"><b>Havlen</b></a>
 </p>
 
 <picture>
