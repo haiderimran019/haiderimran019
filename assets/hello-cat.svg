@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="0 0 360 220" role="img" aria-labelledby="title desc">
+  <title id="title">A curious cat at a laptop</title>
+  <desc id="desc">A small original illustration of an amber cat peeking over a laptop under two stars.</desc>
+  <rect x="4" y="4" width="352" height="212" rx="22" fill="#111827" stroke="#374151" stroke-width="2"/>
+  <path d="M71 55v14m-7-7h14M283 47v10m-5-5h10" stroke="#FBBF24" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="303" cy="91" r="3" fill="#93C5FD"/>
+  <circle cx="57" cy="112" r="2" fill="#93C5FD"/>
+  <path d="M108 159c-25 1-32-22-20-34 9-9 22-2 18 8" fill="none" stroke="#E6A44A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M112 117c-8-22-1-47 14-58l13 23c11-5 27-7 41 0l15-23c17 13 22 37 14 58-7 18-27 31-49 31s-41-13-48-31Z" fill="#F4B75E" stroke="#4B3526" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M129 64l11 19-23 5ZM193 64l-12 19 23 5Z" fill="#F6CF92"/>
+  <path d="M137 105v2m47-2v2" stroke="#302B2B" stroke-width="7" stroke-linecap="round"/>
+  <path d="M157 113l5 4 5-4-5-3-5 3Z" fill="#7C4A45"/>
+  <path d="M162 117v5m0 0c-4 5-9 5-12 1m12-1c4 5 9 5 12 1" fill="none" stroke="#4B3526" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M126 115l-21-5m20 13-23 2m96-10 21-5m-20 13 23 2" stroke="#4B3526" stroke-width="2" stroke-linecap="round"/>
+  <rect x="77" y="132" width="206" height="61" rx="10" fill="#334155" stroke="#9CAFC2" stroke-width="3"/>
+  <path d="m165 154-9 9 9 9m29-18 9 9-9 9m-8-19-12 20" fill="none" stroke="#BAE6FD" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M91 192h178l12 9H79l12-9Z" fill="#64748B" stroke="#9CAFC2" stroke-width="2" stroke-linejoin="round"/>
+</svg>
