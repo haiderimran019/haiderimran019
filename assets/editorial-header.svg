@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="210" viewBox="0 0 1040 210" role="img" aria-labelledby="title desc">
+  <title id="title">Haider Imran — Aspiring AI Engineer</title>
+  <desc id="desc">Minimal editorial banner on warm white with charcoal lettering and a muted green accent.</desc>
+  <rect width="1040" height="210" rx="10" fill="#F8F7F2"/>
+  <path d="M0 209.5H1040" stroke="#D8DAD5"/>
+  <rect x="51" y="39" width="20" height="4" rx="2" fill="#397A68"/>
+  <text x="84" y="45" fill="#51615C" font-size="13" font-family="Consolas, Menlo, monospace" letter-spacing="1.1">ENGINEERING / RESEARCH / PRODUCTS</text>
+  <text x="50" y="123" fill="#1A2422" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Haider Imran</text>
+  <text x="52" y="164" fill="#54635E" font-family="Consolas, Menlo, monospace" font-size="16">Aspiring AI Engineer  ·  Data Science Undergraduate</text>
+  <path d="M850 49V164M907 49V164M964 49V164M822 78H994M822 135H994" stroke="#D5DBD3" stroke-width="1"/>
+  <rect x="849" y="77" width="59" height="59" rx="7" fill="#E3EBE5"/>
+  <path d="M864 107L875 118L892 93" stroke="#397A68" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="965" cy="50" r="5" fill="#397A68"/>
+</svg>
