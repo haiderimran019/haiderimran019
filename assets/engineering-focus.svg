@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="112" viewBox="0 0 1040 112" role="img" aria-labelledby="title desc">
+<title id="title">Engineering focus: research, software systems, data analytics</title>
+<desc id="desc">Three clean technical panels in charcoal and muted green matching the profile header.</desc>
+<rect x=".5" y=".5" width="1039" height="111" rx="8" fill="#F8F7F2" stroke="#D8DED7"/>
+<path d="M346.5 18V94 M693.5 18V94" stroke="#D8DED7"/>
+<rect x="22" y="28" width="3" height="55" rx="1.5" fill="#397A68"/>
+<rect x="369" y="28" width="3" height="55" rx="1.5" fill="#397A68"/>
+<rect x="716" y="28" width="3" height="55" rx="1.5" fill="#397A68"/>
+<g font-family="Consolas, Menlo, Monaco, monospace" font-weight="500" font-size="12" fill="#61726C" letter-spacing="1">
+<text x="42" y="39">01 / RESEARCH</text><text x="389" y="39">02 / BUILD</text><text x="736" y="39">03 / VALIDATE</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172420">
+<text x="42" y="71">Model interpretability</text><text x="389" y="71">Useful software systems</text><text x="736" y="71">Data-driven decisions</text>
+</g>
+</svg>
