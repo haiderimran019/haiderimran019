@@ -36,7 +36,7 @@ I've completed a **Front-End AI Engineering internship at FlyRank AI**. I build 
 | **[ER Command · AICON '26, NUST](https://github.com/hafeee44-lab/aicon26-er-dashboard)**<br><sub>Next.js · React · Tailwind CSS</sub> | **Team project — frontend contributor.** Created initial dashboard screens and state management; contributed patient overview and care-team interface designs. The project supports AI-assisted intake, rule-based triage, and care-task escalation. **[Demo](https://aicon26-er-dashboard-taupe.vercel.app/)** |
 | **[Hisaab · Private Bookkeeping](https://github.com/haiderimran019/Hisaab)**<br><sub>TypeScript · Supabase · On-device AI</sub> | Privacy-focused bookkeeping for Pakistani freelancers with encrypted records, multilingual guided workflows, and optional local AI. Hosted features remain in a limited pilot. **[App](https://haiderimran019.github.io/Hisaab/)** |
 | **[Sales Data Analytics · Autoboard](https://github.com/haiderimran019/Sales-Data-Dashboard)**<br><sub>React · TypeScript · Forecasting</sub> | Analytics dashboard with out-of-sample model evaluation and transparent forecast error reporting. Documented revenue holdout result: **18.8% MAPE** on the project's dataset. **[Dashboard](https://haiderimran019.github.io/Sales-Data-Dashboard/)** |
-| **[Ijtemai Kaavish · NaSCon '26, hosted by FAST Islamabad](https://github.com/hafeee44-lab/Nascon-ijtemai-kaavish)**<br><sub>React Native · TypeScript · NestJS · PostgreSQL · Redis</sub> | **Team hackathon project; frontend contributor.** I implemented role-aware mobile navigation and responsive matchday themes, and improved accessibility, live-score feedback, and automation-ready test IDs. |
+| **[Ijtemai Kaavish · NaSCon '26](https://github.com/hafeee44-lab/Nascon-ijtemai-kaavish)**<br><sub>React Native · TypeScript · NestJS · PostgreSQL · Redis</sub> | **Team hackathon project; frontend contributor.** I implemented role-aware mobile navigation and responsive matchday themes, and improved accessibility, live-score feedback, and automation-ready test IDs. |
 | **[Riyad as-Salihin · Reading Platform](https://github.com/haiderimran019/Riyadh-as-Saliheen)**<br><sub>React · TypeScript · Node.js</sub> | Ad-free Quran and hadith reading platform featuring translations, reading progress, bookmarks, and prayer times. **[App](https://riyad-as-salihin.vercel.app/)** |
 | **[Solvane · AI Project Continuity](https://github.com/haiderimran019/Solvane)**<br><sub>TypeScript · React · Local-first</sub> | Reviewable project memory and portable handoffs for carrying goals, decisions, and next steps between AI conversations. **[App](https://haiderimran019.github.io/Solvane/)** |
 | **[Still Board · Focused Planning](https://github.com/haiderimran019/still-board)**<br><sub>Expo · TypeScript · Web</sub> | Minimal note and task board with browser and mobile experiences, developed with documented Agile planning and testing. **[Web app](https://haiderimran019.github.io/still-board/app/)** |
@@ -57,14 +57,16 @@ Submitted open-source pull requests; both are currently open and not yet merged.
 - **[Clicky PR #152](https://github.com/farzaa/clicky/pull/152):** Added bearer-token protection and fail-closed configuration for the Worker proxy, safer error handling, secure local token storage, regression tests, and CI.
 - **[LiteLLM PR #49615](https://github.com/BerriAI/litellm/pull/49615):** Added a Personal Models multi-select filter to the internal users table, with matching across results, totals, pagination, and sorting, plus backend and dashboard tests.
 
-## 05 / Hackathons & AI learning
+## 05 / Hackathons
 
 - **NUST — AICON '26:** Built the ER Command dashboard as part of a team.
-- **FAST — NaSCon '26, hosted by FAST Islamabad:** Contributed mobile frontend work to Ijtemai Kaavish; the team placed **10th of 70 teams**.
-- **OpenAI Academy — Scope AI Solutions:** Completed.
-- **Claude:** Claude 101 · Claude Code in Action.
+- **NaSCon '26:** Contributed mobile frontend work to Ijtemai Kaavish; the team placed **10th of 70 teams**.
 
-## 06 / Tools & direction
+## 06 / AI Training & Certifications
+
+- **OpenAI Academy — Scope AI Solutions** · **Claude — Claude 101 and Claude Code in Action**
+
+## 07 / Tools & direction
 
 | Area | Focus |
 | :--- | :--- |
