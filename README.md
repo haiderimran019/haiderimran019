@@ -1,53 +1,55 @@
-# Haider Imran
+<p align="center">
+  <img src="assets/editorial-header.svg" alt="Haider Imran — Aspiring AI Engineer and Data Science Undergraduate" width="100%">
+</p>
 
-**Aspiring AI Engineer · Data Science Undergraduate**
+I'm a **Data Science undergraduate at Air University** interested in AI engineering, mechanistic interpretability, data analytics, and building useful software. I've completed a **Front-End AI Engineering internship at FlyRank AI** and use AI coding agents alongside hands-on testing and Git-based development.
 
-I'm studying Data Science at **Air University** and building software across AI, data analytics, and full-stack development. My interests include understanding how machine learning models work, building useful products, and evaluating results rather than relying on assumptions.
+[LinkedIn](https://www.linkedin.com/in/haider-imran-558010423/) · [GitHub repositories](https://github.com/haiderimran019?tab=repositories) · [GPT-2 research paper](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf)
 
-I completed a **Front-End AI Engineering internship at FlyRank AI**, and use Claude Code, Codex, and GitHub as part of my development workflow.
-
-[LinkedIn](https://www.linkedin.com/in/haider-imran-558010423/) · [Repositories](https://github.com/haiderimran019?tab=repositories)
+---
 
 ## Selected projects
 
-**[GPT-2 IOI — Mechanistic Interpretability](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp)**  
-A research-oriented replication and audit of how GPT-2 Small handles indirect object identification, using activation patching, ablation, and prompt-robustness checks. [Read the project paper](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf).  
-`Python` · `PyTorch` · `TransformerLens`
+### [GPT-2 IOI — Mechanistic Interpretability](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp)
+A replication and audit of how GPT-2 Small handles indirect object identification, using activation patching, ablation, and robustness checks across prompt variations.  
+`Python` · `PyTorch` · `TransformerLens` · [Paper](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf)
 
-**[Hisaab — Private Bookkeeping](https://github.com/haiderimran019/Hisaab)**  
-A privacy-focused finance workspace for Pakistani freelancers, with encrypted records, multilingual guided interactions, and optional on-device AI. Cloud features are in a limited pilot. [Live app](https://haiderimran019.github.io/Hisaab/).  
-`TypeScript` · `Supabase` · `On-device AI`
+### [ER Command — AICON '26, NUST](https://github.com/hafeee44-lab/aicon26-er-dashboard)
+**Team project · Frontend contribution.** Built initial dashboard screens and a state hook, with further patient overview and care-team UI design contributions. The prototype combines AI-assisted clinical-note intake with rule-based triage, task scheduling, and escalation.  
+`Next.js` · `React` · `Tailwind CSS` · [Live demo](https://aicon26-er-dashboard-taupe.vercel.app/)
 
-**[Riyad as-Salihin — Reading Platform](https://github.com/haiderimran019/Riyadh-as-Saliheen)**  
-An ad-free reading platform for Riyad as-Salihin and the Quran, with translations, bookmarks, reading progress, and prayer times. [Live app](https://riyad-as-salihin.vercel.app/).  
-`React` · `TypeScript` · `Node.js`
+### [Hisaab — Private Bookkeeping](https://github.com/haiderimran019/Hisaab)
+A privacy-focused bookkeeping workspace for Pakistani freelancers, with encrypted records, multilingual guided interactions, and optional on-device AI. Cloud features remain in a limited pilot.  
+`TypeScript` · `Supabase` · `On-device AI` · [Live app](https://haiderimran019.github.io/Hisaab/)
 
-**[Sales Data Analytics — Autoboard](https://github.com/haiderimran019/Sales-Data-Dashboard)**  
-An interactive analytics dashboard with reproducible forecasting and out-of-sample validation. Its documented revenue model achieved **18.8% MAPE** on the project's holdout dataset. [Live dashboard](https://haiderimran019.github.io/Sales-Data-Dashboard/).  
-`React` · `TypeScript` · `Forecasting`
+### [Sales Data Analytics — Autoboard](https://github.com/haiderimran019/Sales-Data-Dashboard)
+A sales analytics dashboard with reproducible forecasting and out-of-sample model validation. Its documented revenue forecast achieves **18.8% holdout MAPE** on the project's evaluation dataset.  
+`React` · `TypeScript` · `Forecasting` · [Live dashboard](https://haiderimran019.github.io/Sales-Data-Dashboard/)
 
-**[Solvane — AI Project Continuity](https://github.com/haiderimran019/Solvane)**  
-A workspace for preserving project goals, decisions, and next steps between AI conversations through reviewed changes and portable handoffs. [Live app](https://haiderimran019.github.io/Solvane/).  
-`TypeScript` · `React` · `Local-first`
+### [Ijtemai Kaavish — NaSCon '26, FAST](https://github.com/hafeee44-lab/Nascon-ijtemai-kaavish)
+**Team hackathon project.** A multi-sport league and club operations platform featuring role-based mobile workflows, match management, live streaming, and a service-backed architecture.  
+`NestJS` · `PostgreSQL` · `Redis` · `Android`
 
-**[Still Board — Focused Planning](https://github.com/haiderimran019/still-board)**  
-A minimal task and note board with web and mobile experiences, built through a documented Agile development process. [Web app](https://haiderimran019.github.io/still-board/app/).  
-`Expo` · `TypeScript` · `Product design`
+### [Riyad as-Salihin — Reading Platform](https://github.com/haiderimran019/Riyadh-as-Saliheen)
+An ad-free Quran and hadith reading experience with translations, bookmarks, reading progress, and prayer-time features.  
+`React` · `TypeScript` · `Node.js` · [Live app](https://riyad-as-salihin.vercel.app/)
 
-## Hackathons & event projects
+### [Solvane — AI Project Continuity](https://github.com/haiderimran019/Solvane)
+A local-first workspace for reviewing and carrying project decisions, goals, and next steps between AI conversations, with version history and portable handoffs.  
+`TypeScript` · `React` · [Live app](https://haiderimran019.github.io/Solvane/)
 
-**AICON ER Dashboard · NUST SEECS**  
-A dashboard project developed at a NUST event.
+### [Still Board — Focused Planning](https://github.com/haiderimran019/still-board)
+A minimal note and task board with web and mobile experiences, developed through a documented Agile planning and testing process.  
+`Expo` · `TypeScript` · [Web app](https://haiderimran019.github.io/still-board/app/)
 
-**Ijtemai Kavish · NASCON, FAST**  
-An application project built during the NASCON hackathon at FAST.
-
-**Achievement:** 10th place in a FAST app development competition.
+---
 
 ## Background
 
-- **Education:** BS Data Science, Air University.
-- **Experience:** Completed Front-End AI Engineering internship, FlyRank AI.
-- **Learning:** Claude 101 and Claude Code in Action.
-- **Tools & foundations:** C++, Python-based ML research, Git/GitHub, Claude Code, Codex, testing, and debugging.
-- **Interests:** AI engineering, model interpretability, data analytics, and software development.
+- **Education:** BS Data Science — Air University
+- **Experience:** Completed Front-End AI Engineering internship — FlyRank AI
+- **Hackathons:** AICON '26 at NUST and NaSCon '26 at FAST; **10th place** in a FAST app development competition
+- **Certifications / coursework:** Claude 101 · Claude Code in Action
+- **Development toolkit:** C++, Git/GitHub, Claude Code, Codex, debugging, testing, and AI-assisted software development
+
+**Currently exploring:** AI engineering · Machine learning · Model interpretability · Data-driven products
