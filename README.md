@@ -1,54 +1,53 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Haider Imran — Aspiring AI Engineer and Data Science Undergraduate" width="100%" />
-</p>
+# Haider Imran
 
-I’m a **Data Science undergraduate at Air University** working toward AI engineering. I build and study software at the intersection of **machine learning, model interpretability, data analytics, and useful products**.
+**Aspiring AI Engineer · Data Science Undergraduate**
 
-Previously, I completed a **Front-End AI Engineering internship at FlyRank AI**. I enjoy using AI coding tools to ship applications while developing stronger foundations in software engineering and ML.
+I'm studying Data Science at **Air University** and building software across AI, data analytics, and full-stack development. My interests include understanding how machine learning models work, building useful products, and evaluating results rather than relying on assumptions.
 
-[LinkedIn](https://www.linkedin.com/in/haider-imran-558010423/) · [Research paper](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf) · [All repositories](https://github.com/haiderimran019?tab=repositories)
+I completed a **Front-End AI Engineering internship at FlyRank AI**, and use Claude Code, Codex, and GitHub as part of my development workflow.
 
----
+[LinkedIn](https://www.linkedin.com/in/haider-imran-558010423/) · [Repositories](https://github.com/haiderimran019?tab=repositories)
 
-## Selected work
+## Selected projects
 
-### [GPT-2 IOI — Mechanistic Interpretability](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp)
-A replication and audit of GPT-2 Small on indirect object identification, using activation patching and ablation to examine which components influence model predictions. Includes robustness checks under changes to prompt wording and names.
+**[GPT-2 IOI — Mechanistic Interpretability](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp)**  
+A research-oriented replication and audit of how GPT-2 Small handles indirect object identification, using activation patching, ablation, and prompt-robustness checks. [Read the project paper](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf).  
+`Python` · `PyTorch` · `TransformerLens`
 
-**Focus:** `Python` · `PyTorch` · `TransformerLens` · [Paper](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf)
+**[Hisaab — Private Bookkeeping](https://github.com/haiderimran019/Hisaab)**  
+A privacy-focused finance workspace for Pakistani freelancers, with encrypted records, multilingual guided interactions, and optional on-device AI. Cloud features are in a limited pilot. [Live app](https://haiderimran019.github.io/Hisaab/).  
+`TypeScript` · `Supabase` · `On-device AI`
 
-### [Hisaab — Private Bookkeeping](https://github.com/haiderimran019/Hisaab)
-A privacy-focused finance workspace for Pakistani freelancers. Features encrypted bookkeeping, multilingual guided interactions, deterministic financial calculations, and an optional on-device AI assistant. Its cloud features remain in a limited pilot.
+**[Riyad as-Salihin — Reading Platform](https://github.com/haiderimran019/Riyadh-as-Saliheen)**  
+An ad-free reading platform for Riyad as-Salihin and the Quran, with translations, bookmarks, reading progress, and prayer times. [Live app](https://riyad-as-salihin.vercel.app/).  
+`React` · `TypeScript` · `Node.js`
 
-**Focus:** `TypeScript` · `Supabase` · `On-device AI` · [Live app](https://haiderimran019.github.io/Hisaab/)
+**[Sales Data Analytics — Autoboard](https://github.com/haiderimran019/Sales-Data-Dashboard)**  
+An interactive analytics dashboard with reproducible forecasting and out-of-sample validation. Its documented revenue model achieved **18.8% MAPE** on the project's holdout dataset. [Live dashboard](https://haiderimran019.github.io/Sales-Data-Dashboard/).  
+`React` · `TypeScript` · `Forecasting`
 
-### [Sales Data Analytics — Autoboard](https://github.com/haiderimran019/Sales-Data-Dashboard)
-A browser-based analytics dashboard with forecasting and reproducible out-of-sample validation. The documented revenue model achieved **18.8% holdout MAPE** on its project dataset, with error and uncertainty reported alongside predictions.
+**[Solvane — AI Project Continuity](https://github.com/haiderimran019/Solvane)**  
+A workspace for preserving project goals, decisions, and next steps between AI conversations through reviewed changes and portable handoffs. [Live app](https://haiderimran019.github.io/Solvane/).  
+`TypeScript` · `React` · `Local-first`
 
-**Focus:** `React` · `TypeScript` · `Forecasting` · [Live dashboard](https://haiderimran019.github.io/Sales-Data-Dashboard/)
+**[Still Board — Focused Planning](https://github.com/haiderimran019/still-board)**  
+A minimal task and note board with web and mobile experiences, built through a documented Agile development process. [Web app](https://haiderimran019.github.io/still-board/app/).  
+`Expo` · `TypeScript` · `Product design`
 
-### [Solvane — AI Project Continuity](https://github.com/haiderimran019/Solvane)
-A local-first workspace for carrying reviewed project goals, decisions, constraints, and next steps between AI conversations. Supports version history, portable handoffs, and user-approved updates.
+## Hackathons & event projects
 
-**Focus:** `TypeScript` · `React` · `Browser storage` · [Live app](https://haiderimran019.github.io/Solvane/)
+**AICON ER Dashboard · NUST SEECS**  
+A dashboard project developed at a NUST event.
 
-### [Still Board — Focused Planning](https://github.com/haiderimran019/still-board)
-A minimal planning board with a browser experience and an Expo mobile application. Designed through a documented Agile workflow, including sprint plans, testing, and product decisions.
+**Ijtemai Kavish · NASCON, FAST**  
+An application project built during the NASCON hackathon at FAST.
 
-**Focus:** `Expo` · `TypeScript` · `Product development` · [Web app](https://haiderimran019.github.io/still-board/app/)
+**Achievement:** 10th place in a FAST app development competition.
 
----
-
-## Experience & learning
+## Background
 
 - **Education:** BS Data Science, Air University.
-- **Experience:** Completed Front-End AI Engineering internship at **FlyRank AI**.
-- **Hackathons:** Participated at **NUST** and **FAST**; placed **10th** in a FAST app development competition.
-- **Courses & certifications:** **Claude 101** and **Claude Code in Action**.
-- **Development workflow:** C++, Git/GitHub, Claude Code, Codex, testing, debugging, and project documentation.
-
-**Currently exploring:** Machine learning · Model interpretability · AI engineering · Data-driven software
-
----
-
-<sub>Built with curiosity, iteration, and an emphasis on verifiable work.</sub>
+- **Experience:** Completed Front-End AI Engineering internship, FlyRank AI.
+- **Learning:** Claude 101 and Claude Code in Action.
+- **Tools & foundations:** C++, Python-based ML research, Git/GitHub, Claude Code, Codex, testing, and debugging.
+- **Interests:** AI engineering, model interpretability, data analytics, and software development.
