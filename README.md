@@ -55,6 +55,7 @@ I've completed a **Front-End AI Engineering internship at FlyRank AI**. I build 
 - **NUST — AICON '26:** Built the ER Command dashboard as part of a team.
 - **FAST — NaSCon '26:** Contributed to the Ijtemai Kaavish team project.
 - **FAST app development competition:** Placed **10th**.
+- **OpenAI Academy:** Completed *Scope AI Solutions*.
 - **Coursework / certifications:** Claude 101 · Claude Code in Action.
 
 ## 05 / Tools & direction
