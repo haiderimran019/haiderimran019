@@ -52,10 +52,12 @@ I've completed a **Front-End AI Engineering internship at FlyRank AI**. I build 
 
 ## 04 / GitHub contributions
 
-Submitted open-source pull requests; both are currently open and not yet merged.
+Submitted open-source pull requests; these are currently open and not yet merged.
 
 - **[Clicky PR #152](https://github.com/farzaa/clicky/pull/152):** Added bearer-token protection and fail-closed configuration for the Worker proxy, safer error handling, secure local token storage, regression tests, and CI.
 - **[LiteLLM PR #49615](https://github.com/BerriAI/litellm/pull/49615):** Added a Personal Models multi-select filter to the internal users table, with matching across results, totals, pagination, and sorting, plus backend and dashboard tests.
+- **[Supabase PR #52651](https://github.com/supabase/supabase/pull/52651):** Hardened the Studio Assistant’s generated RLS helper with a private schema, fixed `search_path`, schema-qualified objects, and least-privilege grants.
+- **[Supabase PR #52653](https://github.com/supabase/supabase/pull/52653):** Fixed Studio’s Realtime publication controls so all-table publications remain enabled, including when working outside the `public` schema.
 
 ## 05 / Hackathons
 
