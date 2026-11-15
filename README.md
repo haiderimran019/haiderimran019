@@ -34,6 +34,7 @@ I've completed a **Front-End AI Engineering internship at FlyRank AI**. I build 
 | :--- | :--- |
 | **[GPT-2 IOI · Mechanistic Interpretability](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp)**<br><sub>Python · PyTorch · TransformerLens</sub> | Replication and audit of GPT-2 Small's indirect-object identification behavior, using activation patching, ablation, and prompt-robustness checks. **[Paper](https://github.com/haiderimran019/Gpt2-ioi-Mechinterp/blob/main/output/pdf/gpt2_ioi_research_paper.pdf)** |
 | **[ER Command · AICON '26, NUST](https://github.com/hafeee44-lab/aicon26-er-dashboard)**<br><sub>Next.js · React · Tailwind CSS</sub> | **Team project — frontend contributor.** Created initial dashboard screens and state management; contributed patient overview and care-team interface designs. The project supports AI-assisted intake, rule-based triage, and care-task escalation. **[Demo](https://aicon26-er-dashboard-taupe.vercel.app/)** |
+| **[CityLab · Tech Fusion '26, Bahria University](https://github.com/haiderimran019/citylab-lab-explainer)**<br><sub>Python · FastAPI · React · TypeScript · Gemini</sub> | **Solo hackathon project; placed 3rd of 30.** Lab report explainer where tested Python rules mark each result Normal, Low, High or Urgent, and the AI only writes the plain-language explanation in English or Urdu. **[App](https://citylab-lab-explainer.vercel.app/)** |
 | **[Hisaab · Private Bookkeeping](https://github.com/haiderimran019/Hisaab)**<br><sub>TypeScript · Supabase · On-device AI</sub> | Privacy-focused bookkeeping for Pakistani freelancers with encrypted records, multilingual guided workflows, and optional local AI. Hosted features remain in a limited pilot. **[App](https://haiderimran019.github.io/Hisaab/)** |
 | **[Sales Data Analytics · Autoboard](https://github.com/haiderimran019/Sales-Data-Dashboard)**<br><sub>React · TypeScript · Forecasting</sub> | Analytics dashboard with out-of-sample model evaluation and transparent forecast error reporting. Documented revenue holdout result: **18.8% MAPE** on the project's dataset. **[Dashboard](https://haiderimran019.github.io/Sales-Data-Dashboard/)** |
 | **[Ijtemai Kaavish · NaSCon '26](https://github.com/hafeee44-lab/Nascon-ijtemai-kaavish)**<br><sub>React Native · TypeScript · NestJS · PostgreSQL · Redis</sub> | **Team hackathon project; frontend contributor.** I implemented role-aware mobile navigation and responsive matchday themes, and improved accessibility, live-score feedback, and automation-ready test IDs. |
@@ -61,6 +62,7 @@ Submitted open-source pull requests; these are currently open and not yet merged
 
 ## 05 / Hackathons
 
+- **Bahria University — Tech Fusion '26:** Built the CityLab lab report explainer solo for the AI Hackathon; placed **3rd of 30**.
 - **NUST — AICON '26:** Built the ER Command dashboard as part of a team.
 - **NaSCon '26:** Contributed mobile frontend work to Ijtemai Kaavish; the team placed **10th of 70 teams**.
 
